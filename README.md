@@ -19,9 +19,9 @@
 ```yaml
 name        : Ashis
 role        : BTech CSE — Cybersecurity Track
-focus       : [Reverse Engineering, Security Research, Automation]
+focus       : [Security Research, Automation, Testing]
 location    : India
-currently   : Building tools, breaking binaries, securing systems
+currently   : Building tools, Testing tools, Stitching tools
 
 interests:
   - Low-level systems

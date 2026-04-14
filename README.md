@@ -8,7 +8,7 @@
 
 # `> ASHIS_KUMAR`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=700&lines=Cybersecurity+Engineer+%7C;Software+%26+Automation+Developer;AI+Tooling+%7C+Web+Systems;Breaking+things+to+understand+them)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=700&lines=Cybersecurity+Engineer;Software+%26+Automation+Developer;AI+Tooling+%7C+Web+Systems;Breaking+things+to+understand+them)](https://git.io/typing-svg)
 
 </div>
 

@@ -63,7 +63,7 @@ ACHIEVEMENT ▶ IdeaSprint 3.0 — 6th Place
 TYPE        ▶ Security Monitoring / Threat Detection
 ```
 
-### `[02] Fix It Self`
+### `[02] Shoot Your Self`
 A smart troubleshooting platform for laptops, PCs, and mobile devices that guides users through issue trees and repair workflows.
 
 ```text

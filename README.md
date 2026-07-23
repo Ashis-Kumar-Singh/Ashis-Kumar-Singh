@@ -55,9 +55,9 @@ interests:
 
 ## `> FEATURED PROJECTS`
 
-### `[01] DNS Security Monitoring Tool`
+### `[01] [DNS Security Monitoring Tool](https://github.com/Totheblankworld/web-flow)'
 Cybersecurity project focused on detecting suspicious DNS activity including hijacking patterns, cache poisoning indicators, fast-flux behavior, and malicious resolution anomalies.
-🔗 https://github.com/Totheblankworld/web-flow
+🔗 Click The name to Visit the project.
 ```text
 ACHIEVEMENT ▶ IdeaSprint 3.0 — 6th Place
 TYPE        ▶ Security Monitoring / Threat Detection

@@ -70,7 +70,7 @@ A smart troubleshooting platform for laptops, PCs, and mobile devices that guide
 TYPE ▶ Web Troubleshooting Platform
 ```
 
-### `[03] [V-Scanner](https://github.com/ToTheBlankWorld/V-Scanner)`
+### `[03] [V-Scanner](https://github.com/ToTheBlankWorld/V-Scanner)'
 Fast vulnerability scanner for service fingerprinting, CVE checks, and rapid attack-surface mapping.
 
 ```text
